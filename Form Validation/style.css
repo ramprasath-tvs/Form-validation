@@ -1,0 +1,90 @@
+
+.main{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    height: 100%;
+}
+
+body
+{
+    background: linear-gradient(45deg, greenyellow, dodgerblue);
+    background-size: cover;
+    background-position: 100%;
+}
+/* .form-group{
+    padding-right: 80px;
+} */
+
+.form{
+    
+    background-color: whitesmoke;
+    color: rgb(4, 4, 5);
+    display:inline-table;
+    padding: 10px 20px 0px 10px;
+    height: 500px;
+   
+}
+.container{
+    
+    padding: 10px;
+    shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+ 
+}
+#submit{
+    border-radius: 10px;
+    padding: 10px 40px;
+    width: 350px;
+}
+.name{
+    padding-right: 270px;
+    padding-bottom: 3px;
+
+}
+.email{
+    padding-right: 270px;
+    padding-bottom: 3px;
+    
+}
+.number{
+    padding-right: 240px;
+    padding-bottom: 3px;
+
+
+}
+.pass{
+    padding-right: 280px;
+    padding-bottom: 3px;
+
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.create{
+    color: rgb(16, 16, 15);
+    font-size: 3ch;
+    
+}
+span{
+    color: rgb(22, 74, 232);
+    cursor: pointer;
+}
+#nameerror{
+
+    padding-right: 200px;
+}
+#emailerror{
+
+    padding-right: 215px;
+
+}
+#mobilerror{
+
+    padding-right: 135px;
+}
+#passerror{
+
+    padding-right: 180px;
+}
+
